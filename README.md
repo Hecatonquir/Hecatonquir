@@ -33,11 +33,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
     </tr>   
   
      <tr valign="top">      
-      <td width="25%" align="center">
-        <span><strong>Redux</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
-      </td>
+     
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
         </span><br><br><br>
