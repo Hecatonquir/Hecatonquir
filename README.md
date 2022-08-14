@@ -30,6 +30,11 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Redux</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg">
+      </td>
     </tr>
     <tr valign="top">     
       <td width="25%" align="center">
