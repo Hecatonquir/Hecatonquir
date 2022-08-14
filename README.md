@@ -45,10 +45,8 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">           
-     
-    </tr>
+    </tr>          
+   
   </tbody>
 </table>
 <hr>
