@@ -97,7 +97,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   </a>
   
   <a href="https://github.com/Hecatonquir">
-    <img src="https://www.portfoliogallerystl.org/images/all-colors/Portfolio-Gallery-circle-Logo-300.png" style={{width:1rem,height:1rem}}>  
+    <img src="https://www.portfoliogallerystl.org/images/all-colors/Portfolio-Gallery-circle-Logo-300.png" width="25px" height="25px" >  
   </a>
 
   <br/> 
