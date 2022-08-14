@@ -30,7 +30,29 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>      
-    </tr>   
+    </tr>
+    
+    <tr valign="top">      
+      <td width="25%" align="center">
+        <span><strong>Redux</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
   
     
    
