@@ -30,12 +30,13 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-      <td width="25%" align="center">
+      
+    </tr>
+    <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
-        <img height="64px" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg">
+        <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
       </td>
-    </tr>
     <tr valign="top">     
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
@@ -62,12 +63,6 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="center">
   <br/>
