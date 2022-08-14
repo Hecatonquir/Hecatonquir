@@ -69,7 +69,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <br><br> 
       </td>
       <td width="25%" align="center">
-        <span><strong>Trello</strong></span><br>
+        <span><strong>Trello</strong></span><br><br>
         <img height="64px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png">
         <br><br> 
       </td>
