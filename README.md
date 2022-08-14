@@ -29,15 +29,15 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-      
-    </tr>
-    <td width="25%" align="center">
+      </td>      
+    </tr>   
+  
+    <tr valign="top">     
+      <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
         <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
       </td>
-    <tr valign="top">     
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
         </span><br><br><br>
