@@ -102,7 +102,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   </a>
   
   <a href="https://github.com/Hecatonquir">
-    <img src="https://www.pngkey.com/png/detail/111-1112699_portfolio-portfolio-png.png">  
+    <img src="https://e7.pngegg.com/pngimages/50/83/png-clipart-lettering-portfolio-text-font-design-angle-web-design.png">  
   </a>
 
   <br/> 
