@@ -14,59 +14,68 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span>𝗛𝗧𝗠𝗟𝟱</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span>𝗖𝗦𝗦𝟯</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
+        <span><strong>React</strong></span>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <br><br><br>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Redux</strong>
-        </span><br><br><br>
+        <span><strong>Redux</strong></span>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
+        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <br><br><br>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>PostgreSQL</strong></span><br><br><br>
+        <span><strong>PostgreSQL</strong></span>
         <img height="64px" src="https://www.devartisan.cl/static/media/postgreSQL.517902bf.svg">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>Express.js</strong></span><br><br><br>
+        <span><strong>Express.js</strong></span>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>SCRUM</strong></span><br><br><br>
+        <span><strong>SCRUM</strong></span>
         <img height="64px" src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png">
+        <br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>Trello</strong></span><br><br><br>
+        <span><strong>Trello</strong></span>
         <img height="64px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png">
+        <br><br><br>
       </td>
     </tr>
   </tbody>
