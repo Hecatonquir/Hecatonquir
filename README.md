@@ -33,9 +33,9 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>Redux</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
@@ -53,20 +53,20 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>PostgreSQL</strong></span><br><br><br>
+        <img height="64px" src="https://www.devartisan.cl/static/media/postgreSQL.517902bf.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>Express.js</strong></span><br><br><br>
+        <img height="64px" src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>SCRUM</strong></span><br><br><br>
+        <img height="64px" src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Trello</strong></span><br><br><br>
+        <img height="64px" src="https://w1.pngwing.com/pngs/930/286/png-transparent-trello-logo-cdr-computer-software-blue-text-line-area-rectangle.png">
       </td>
     </tr>
   </tbody>
