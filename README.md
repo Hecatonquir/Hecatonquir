@@ -85,11 +85,6 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 
 <h1 align="center">
 ✨ Where you can find me ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-  <!-- https://www.pngkey.com/png/detail/111-1112699_portfolio-portfolio-png.png -->
 
 <p align="center">
   <br/>
@@ -102,7 +97,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   </a>
   
   <a href="https://github.com/Hecatonquir">
-    <img src="https://e7.pngegg.com/pngimages/50/83/png-clipart-lettering-portfolio-text-font-design-angle-web-design.png">  
+    <img src="https://p.kindpng.com/picc/s/238-2384305_portfolio-text-png-transparent-png.png">  
   </a>
 
   <br/> 
