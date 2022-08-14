@@ -32,7 +32,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
       </td>      
     </tr>   
   
-    <tr valign="top">     
+     <tr valign="top">      
       <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
@@ -51,7 +51,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>          
+    </tr>
    
   </tbody>
 </table>
