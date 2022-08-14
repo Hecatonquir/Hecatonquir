@@ -89,6 +89,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+  <!-- https://www.pngkey.com/png/detail/111-1112699_portfolio-portfolio-png.png -->
 
 <p align="center">
   <br/>
@@ -98,6 +99,10 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
   
   <a href="https://github.com/Hecatonquir">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+  
+  <a href="https://github.com/Hecatonquir">
+    <img src="https://www.pngkey.com/png/detail/111-1112699_portfolio-portfolio-png.png">  
   </a>
 
   <br/> 
