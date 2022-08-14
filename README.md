@@ -1,8 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Max!](https://github.com/parth-27) !!
-
-</h2>
-
-<hr/>
+## Hey there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Max!](https://github.com/parth-27) !!
 
 ## About Me
 
@@ -89,15 +85,16 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/springermax-electricdeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="20px" width="80px" align="center" justify="center">
   </a>
   
   <a href="https://github.com/Hecatonquir">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" height="20px" width="80px" align="center" justify="center">  
   </a>
   
-  <a href="https://github.com/Hecatonquir">
-    <img src="https://p.kindpng.com/picc/s/238-2384305_portfolio-text-png-transparent-png.png" height="20px" >  
+  <a href="https://springer-portfolio.vercel.app/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ2S3VGLpgf6Bbwfyzefg9svz6m7WGBa9ZGKJEciMOkzK8OCXv5zh57dgo2w2EJtmKg&usqp=CAU" height="20px" width="80px" align="center" justify="center">  
+    
   </a>
 
   <br/> 
