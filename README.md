@@ -104,4 +104,4 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 ## <h3>Thanks for Stopping by!! 😊</h3>
 
 ---
-⭐️ From [Springer Max](https://github.com/Hecatonquir) 
+⭐️ From [Springer Maximilian](https://github.com/Hecatonquir) 
