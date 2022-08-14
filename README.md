@@ -29,14 +29,13 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>      
+      </td>
     </tr>
-    
-    <tr valign="top">      
+    <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Redux</strong>
+        <span><strong>Python</strong>
         </span><br><br><br>
-        <img height="64px" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
@@ -48,16 +47,31 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span>
-        </span><br><br><br>
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-  
-    
-   
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
+    </tr>
   </tbody>
 </table>
+
 <hr>
 
 <h1 align="center">
