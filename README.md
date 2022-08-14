@@ -35,7 +35,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
       <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
-        <img height="64px" src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
