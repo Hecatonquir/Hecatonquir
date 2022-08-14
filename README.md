@@ -58,7 +58,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
       </td>
       <td width="25%" align="center">
         <span><strong>Express.js</strong></span><br><br><br>
-        <img height="64px" src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo.png">
+        <img height="64px" src="https://w7.pngwing.com/pngs/307/421/png-transparent-node-js-javascript-web-server-scalable-graphics-chrome-v8-vue-js-angle-text-logo.png">
       </td>
       <td width="25%" align="center">
         <span><strong>SCRUM</strong></span><br><br><br>
