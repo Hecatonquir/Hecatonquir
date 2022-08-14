@@ -1,4 +1,4 @@
-## Hey there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Max!](https://github.com/parth-27) !!
+## Hello there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Max!](https://github.com/Hecatonquir) !! 
 
 ## About Me
 
@@ -6,8 +6,8 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
+<table align="center" >
+  <tbody  justify="center">
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
@@ -60,7 +60,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
       </td>
       <td width="25%" align="center">
         <span><strong>Express.js</strong></span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+        <img height="64px" src="https://assets.zabbix.com/img/brands/nodejs.svg">
         <br><br> 
       </td>
       <td width="25%" align="center">
@@ -79,8 +79,9 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 
 <hr>
 
-<h1 align="center">
-✨ Where you can find me ✨
+
+## ✨ Where you can find me ✨
+
 
 <p align="center">
   <br/>
@@ -99,9 +100,8 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 
   <br/> 
 </p>
-</h1>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+## <h3>Thanks for Stopping by!! 😊</h3>
 
 ---
 ⭐️ From [Springer Max](https://github.com/Hecatonquir) 
