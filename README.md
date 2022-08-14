@@ -66,7 +66,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
       </td>
       <td width="25%" align="center">
         <span><strong>Trello</strong></span><br><br><br>
-        <img height="64px" src="https://w1.pngwing.com/pngs/930/286/png-transparent-trello-logo-cdr-computer-software-blue-text-line-area-rectangle.png">
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png">
       </td>
     </tr>
   </tbody>
