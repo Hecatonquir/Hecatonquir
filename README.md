@@ -4,7 +4,7 @@
 
 Hi! I’m an Electrical Engineer student, about to start my thesis. However, studying the market I found out that working as Web Developer has a big potential. This made me curious, which led me to learn more about it and ended up liking it. Also, it suits my personality and preferences. Therefore, after studying the basics, here I am! ready and eager to give my best working remotely within your company!
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table align="center" >
   <tbody  justify="center">
