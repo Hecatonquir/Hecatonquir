@@ -85,7 +85,7 @@ Hi! I’m an Electrical Engineer student, about to start my thesis. However, stu
 <hr>
 
 
-## ✨ Where you can find me ✨
+## 🔎 Where to find me 🔍
 
 
 <p align="center">
